@@ -7,4 +7,4 @@ github_username: s1092923
 
 # Build settings
 markdown: kramdown
-theme: Architect
+theme: jekyll-theme-architect
