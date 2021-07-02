@@ -1,9 +1,9 @@
 # basic options
-title: Allen's Website
-author: s1092923
-email: s1092923@g.ncyu.edu.tw
-description: A wonderful site
-github_username: s1092923
+title: [Allen's Website]
+author: [s1092923]
+email: [s1092923@g.ncyu.edu.tw]
+description: [A wonderful site]
+github_username: [s1092923]
 
 # Build settings
 markdown: kramdown
