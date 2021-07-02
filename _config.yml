@@ -8,3 +8,4 @@ github_username: s1092923
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
+page_excerpts: true
